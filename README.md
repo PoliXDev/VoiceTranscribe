@@ -56,3 +56,11 @@ This program is a desktop application that allows transcribing audio from videos
 - PyQt5
 - PyQtWebEngine
 - PySide6
+
+## About the Project
+
+This application is part of the study projects developed at the Conquerblock Academy.  
+Created by **Daniel Ruiz Poli**.  
+
+For inquiries or feedback, contact:  
+**Email:** danielruiz368@gmail.com  
