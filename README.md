@@ -1,6 +1,6 @@
 # VoiceTranscribe - Audio Transcription from Videos
 
-This program is a desktop application that allows transcribing audio from videos (mainly from YouTube) to text using OpenAI's Whisper model
+This program is a desktop application that allows transcribing audio from videos (mainly from YouTube) to text using OpenAI's Whisper model with a graphical interface made with PyQt5"
 ## Key Features:
 
 - Graphical interface using PyQt5
