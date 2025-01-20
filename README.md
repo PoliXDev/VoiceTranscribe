@@ -21,20 +21,6 @@ This program is a desktop application that allows transcribing audio from videos
 - **save_transcription(text, file_name):**
   - Saves the transcribed text to a file
 
-### Security Features:
-
-- URL validation
-- File size limit
-- Timeout for lengthy operations
-- Filename sanitization
-- Error handling
-
-### Multithreading:
-
-- Uses QThread to:
-  - Prevent the interface from freezing during transcription
-  - Allow cancellation of the operation
-  - Display real-time progress
 
 ## This Program is Useful for:
 
